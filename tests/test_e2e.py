@@ -2,7 +2,7 @@ from pageObjects.HomePage import HomePage
 from utilities.BaseClass import BaseClass
 
 
-class TestShopping(BaseClass):
+class TestShoppingProcess(BaseClass):
 
     def test_e2e(self):
         log = self.getLogger()

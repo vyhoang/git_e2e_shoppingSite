@@ -4,6 +4,7 @@ import pytest
 import logging
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.select import Select
 from selenium.webdriver.support.wait import WebDriverWait
 
 
@@ -27,4 +28,8 @@ class BaseClass:
         wait = WebDriverWait(self.driver, 10)
         wait.until(EC.presence_of_element_located((By.LINK_TEXT, linkText)))
 
+
+    def selectOptionByTest(self, locator, text):
+        option = Select(locator)
+        option.select_by_visible_text(text)
 
