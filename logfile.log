@@ -1,0 +1,30 @@
+2021-01-12 18:24:48,368 : INFO : test_formSubmission : First name entered: Mickey
+2021-01-12 18:24:48,476 : INFO : test_formSubmission : Email entered: mickey@gmail.com
+2021-01-12 18:25:03,161 : INFO : test_e2e : Get all card titles
+2021-01-12 18:25:03,208 : INFO : test_e2e : iphone X
+2021-01-12 18:25:03,224 : INFO : test_e2e : Samsung Note 8
+2021-01-12 18:25:03,239 : INFO : test_e2e : Nokia Edge
+2021-01-12 18:25:03,321 : INFO : test_e2e : Blackberry
+2021-01-12 18:25:03,478 : INFO : test_e2e : Search country name with un
+2021-01-12 18:25:08,961 : INFO : test_e2e : Text from the confirmation page×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-01-12 18:35:15,353 : INFO : test_formSubmission : First name entered: Mickey
+2021-01-12 18:35:15,399 : INFO : test_formSubmission : Email entered: mickey@gmail.com
+2021-01-12 18:35:32,308 : INFO : test_e2e : Get all card titles
+2021-01-12 18:35:32,342 : INFO : test_e2e : iphone X
+2021-01-12 18:35:32,351 : INFO : test_e2e : Samsung Note 8
+2021-01-12 18:35:32,357 : INFO : test_e2e : Nokia Edge
+2021-01-12 18:35:32,584 : INFO : test_e2e : Blackberry
+2021-01-12 18:35:33,052 : INFO : test_e2e : Search country name with un
+2021-01-12 18:35:38,959 : INFO : test_e2e : Text from the confirmation page×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-01-13 11:40:53,137 : INFO : test_formSubmission : First name entered: Mickey
+2021-01-13 11:40:53,192 : INFO : test_formSubmission : Email entered: mickey@gmail.com
+2021-01-13 11:41:13,736 : INFO : test_e2e : Get all card titles
+2021-01-13 11:41:13,769 : INFO : test_e2e : iphone X
+2021-01-13 11:41:13,775 : INFO : test_e2e : Samsung Note 8
+2021-01-13 11:41:13,784 : INFO : test_e2e : Nokia Edge
+2021-01-13 11:41:14,013 : INFO : test_e2e : Blackberry
+2021-01-13 11:41:14,481 : INFO : test_e2e : Search country name with un
+2021-01-13 11:41:20,359 : INFO : test_e2e : Text from the confirmation page×
+Success! Thank you! Your order will be delivered in next few weeks :-).
